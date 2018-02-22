@@ -26,3 +26,22 @@
 - [10 Things You Didn't Know Ruby Could Do](https://www.youtube.com/watch?v=aBgnlBoIkVM)
 - [Refactoring from Good to Great](http://confreaks.tv/videos/aloharuby2012-refactoring-from-good-to-great)
 - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+
+# Misc
+
+- http://img.labnol.org/files/best-technical-talks.html
+- "Encryption and HUGE numbers - Numberphile"
+- "28c3: The Science of Insecurity"
+- "Bret Victor - Inventing on Principle"
+- RailsConf - Derek Sivers
+- RailsConf - Gary Vaynerchuk
+- RailsConf - Robert Martin
+- https://www.ted.com/talks/ze_frank_s_nerdcore_comedy
+- https://www.destroyallsoftware.com/talks/wat
+- https://www.youtube.com/watch?v=i4cryg-q_YM
+- http://confreaks.tv/videos/acr2013-hacking-with-gems
+- http://baugues.com/depression
+- http://confreaks.tv/videos/scrc2013-friendly-flying-robots-with-ruby
+- https://www.youtube.com/watch?v=i4cryg-q_YM
+- https://www.youtube.com/watch?v=T8J0j2xJFgQ
+- https://www.youtube.com/watch?v=GwgF8GcynV0
