@@ -5,16 +5,16 @@
 
 * [audio](https://media.grc.com/sn/sn-025.mp3)
 * [video](http://twit.tv/show/security-now/25)
-* [transcript](https://www.grc.com/sn/sn-309.pdf)
-* [transcript - txt](https://www.grc.com/sn/sn-309.txt)
+* [transcript](https://www.grc.com/sn/sn-025.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-025.txt)
 
 ### Part Two
-> Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world "application notes" for any of the security technologies we have previously discussed.
+> Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world "application notes" for any of the security technologies we have previously discussed.(Q & A starts at 28:00)
 
 * [audio](https://media.grc.com/sn/sn-026.mp3)
 * [video](http://twit.tv/show/security-now/26)
-* [transcript - pdf](https://www.grc.com/sn/sn-310.pdf)
-* [transcript - txt](https://www.grc.com/sn/sn-310.txt)
+* [transcript - pdf](https://www.grc.com/sn/sn-026.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-026.txt)
 
 ### How Local Area Networks Work
 > Having covered the operation of the Internet's WAN (Wide Area Network) technology in the past two weeks, this week Leo and I turn to discussing the way Local Area Networks (LANs) operate and how they interface with the Internet WAN. We address the configuration of subnet masks, default gateways, and DHCP to explain how packets are routed among machines and gateways within a LAN.
