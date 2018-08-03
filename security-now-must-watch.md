@@ -5,7 +5,7 @@
 
 * [audio](https://media.grc.com/sn/sn-025.mp3)
 * [video](http://twit.tv/show/security-now/25)
-* [transcript] (https://www.grc.com/sn/sn-309.pdf)
+* [transcript](https://www.grc.com/sn/sn-309.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-309.txt)
 
 ### Part Two
@@ -13,7 +13,7 @@
 
 * [audio](https://media.grc.com/sn/sn-026.mp3)
 * [video](http://twit.tv/show/security-now/26)
-* [transcript - pdf] (https://www.grc.com/sn/sn-310.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-310.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-310.txt)
 
 ### How Local Area Networks Work
@@ -21,7 +21,7 @@
 
 * [audio](https://media.grc.com/sn/sn-027.mp3)
 * [video](http://twit.tv/show/security-now/27)
-* [transcript - pdf] (https://www.grc.com/sn/sn-027.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-027.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-027.txt)
 
 ***
@@ -31,7 +31,7 @@
 
 * [audio](https://media.grc.com/sn/sn-183.mp3)
 * [video](http://twit.tv/show/security-now/183)
-* [transcript - pdf] (https://www.grc.com/sn/sn-183.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-183.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-183.txt)
 
 
@@ -40,7 +40,7 @@
 
 * [audio](https://media.grc.com/sn/sn-185.mp3)
 * [video](http://twit.tv/show/security-now/185)
-* [transcript - pdf] (https://www.grc.com/sn/sn-185.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-185.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-185.txt)
 
 ### The SSL/TLS Protocol
@@ -48,7 +48,7 @@
 
 * [audio](https://media.grc.com/sn/sn-195.mp3)
 * [video](http://twit.tv/show/security-now/195)
-* [transcript - pdf] (https://www.grc.com/sn/sn-195.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-195.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-195.txt)
 
 ***
@@ -59,7 +59,7 @@
 
 * [audio](https://media.grc.com/sn/sn-233.mp3)
 * [video](http://twit.tv/show/security-now/233)
-* [transcript - pdf] (https://www.grc.com/sn/sn-233.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-233.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-233.txt)
 
 ### Machine Language
@@ -67,7 +67,7 @@
 
 * [audio](https://media.grc.com/sn/sn-235.mp3)
 * [video](http://twit.tv/show/security-now/235)
-* [transcript - pdf] (https://www.grc.com/sn/sn-235.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-235.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-235.txt)
 
 
@@ -76,7 +76,7 @@
 
 * [audio](https://media.grc.com/sn/sn-237.mp3)
 * [video](http://twit.tv/show/security-now/237)
-* [transcript - pdf] (https://www.grc.com/sn/sn-237.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-237.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-237.txt)
 
 ### Stacks, Registers & Recursion
@@ -84,7 +84,7 @@
 
 * [audio](https://media.grc.com/sn/sn-239.mp3)
 * [video](http://twit.tv/show/security-now/239)
-* [transcript - pdf] (https://www.grc.com/sn/sn-239.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-239.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-239.txt)
 
 
@@ -93,7 +93,7 @@
 
 * [audio](https://media.grc.com/sn/sn-241.mp3)
 * [video](http://twit.tv/show/security-now/241)
-* [transcript - pdf] (https://www.grc.com/sn/sn-241.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-241.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-241.txt)
 
 
@@ -106,7 +106,7 @@
 
 * [audio](https://media.grc.com/sn/sn-299.mp3)
 * [video](http://twit.tv/show/security-now/299)
-* [transcript - pdf] (https://www.grc.com/sn/sn-299.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-299.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-299.txt)
 
 ### Part Two
@@ -114,7 +114,7 @@
 
 * [audio](https://media.grc.com/sn/sn-301.mp3)
 * [video](http://twit.tv/show/security-now/301)
-* [transcript - pdf] (https://www.grc.com/sn/sn-301.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-301.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-301.txt)
 
 ***
@@ -126,7 +126,7 @@
 
 * [audio](https://media.grc.com/sn/sn-309.mp3)
 * [video](http://twit.tv/show/security-now/309)
-* [transcript - pdf] (https://www.grc.com/sn/sn-309.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-309.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-309.txt)
 
 
@@ -135,7 +135,7 @@
 
 * [audio](https://media.grc.com/sn/sn-313.mp3)
 * [video](http://twit.tv/show/security-now/313)
-* [transcript - pdf] (https://www.grc.com/sn/sn-313.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-313.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-313.txt)
 
 ***
@@ -148,7 +148,7 @@
 
 * [audio](https://media.grc.com/sn/sn-317.mp3)
 * [video](http://twit.tv/show/security-now/317)
-* [transcript - pdf] (https://www.grc.com/sn/sn-317.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-317.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-317.txt)
 
 
@@ -157,7 +157,7 @@
 
 * [audio](https://media.grc.com/sn/sn-323.mp3)
 * [video](http://twit.tv/show/security-now/323)
-* [transcript - pdf] (https://www.grc.com/sn/sn-323.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-323.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-323.txt)
 
 
@@ -176,7 +176,7 @@
 
 * [audio](https://media.grc.com/sn/sn-343.mp3)
 * [video](http://twit.tv/show/security-now/343)
-* [transcript - pdf] (https://www.grc.com/sn/sn-343.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-343.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-343.txt)
 
 ***
@@ -186,7 +186,7 @@
 
 * [audio](https://media.grc.com/sn/sn-410.mp3)
 * [video](http://twit.tv/show/security-now/410)
-* [transcript - pdf] (https://www.grc.com/sn/sn-410.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-410.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-410.txt)
 
 
