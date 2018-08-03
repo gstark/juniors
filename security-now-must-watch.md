@@ -166,7 +166,7 @@
 
 * [audio](https://media.grc.com/sn/sn-325.mp3)
 * [video](http://twit.tv/show/security-now/325)
-* [transcript - pdf] (https://www.grc.com/sn/sn-325.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-325.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-325.txt)
 
 ***
