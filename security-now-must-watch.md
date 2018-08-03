@@ -1,22 +1,28 @@
 ## How the Internet Works
 
 ### Part One
-> During this 49-minute episode, Leo and I briefly discuss the 'Kama Sutra' virus that will become destructive on February 3rd. We briefly discuss PC World Magazine's recent evaluation and ranking of ten top anti-malware systems. And we begin our long-planned 'fundamental technology' series with a two-part close look at the history and detailed operation of the global Internet.
+> During this 49-minute episode, Leo and I briefly discuss the 'Kama Sutra' virus that will become destructive on February 3rd. We briefly discuss PC World Magazine's recent evaluation and ranking of ten top anti-malware systems. And we begin our long-planned 'fundamental technology' series with a two-part close look at the history and detailed operation of the global Internet.(How interent works starts at 8:35)
 
 * [audio](https://media.grc.com/sn/sn-025.mp3)
 * [video](http://twit.tv/show/security-now/25)
+* [transcript] (https://www.grc.com/sn/sn-309.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-309.txt)
 
 ### Part Two
 > Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world "application notes" for any of the security technologies we have previously discussed.
 
 * [audio](https://media.grc.com/sn/sn-026.mp3)
 * [video](http://twit.tv/show/security-now/26)
+* [transcript - pdf] (https://www.grc.com/sn/sn-310.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-310.txt)
 
 ### How Local Area Networks Work
 > Having covered the operation of the Internet's WAN (Wide Area Network) technology in the past two weeks, this week Leo and I turn to discussing the way Local Area Networks (LANs) operate and how they interface with the Internet WAN. We address the configuration of subnet masks, default gateways, and DHCP to explain how packets are routed among machines and gateways within a LAN.
 
 * [audio](https://media.grc.com/sn/sn-027.mp3)
 * [video](http://twit.tv/show/security-now/27)
+* [transcript - pdf] (https://www.grc.com/sn/sn-027.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-027.txt)
 
 ***
 
@@ -25,19 +31,25 @@
 
 * [audio](https://media.grc.com/sn/sn-183.mp3)
 * [video](http://twit.tv/show/security-now/183)
+* [transcript - pdf] (https://www.grc.com/sn/sn-183.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-183.txt)
+
 
 ### Cryptographic HMACs
 > Leo and I discuss the role, importance and operation of cryptographically-keyed message digest algorithms and their use to securely authenticate messages: Hashed Messages Authentication Codes.
 
 * [audio](https://media.grc.com/sn/sn-185.mp3)
 * [video](http://twit.tv/show/security-now/185)
+* [transcript - pdf] (https://www.grc.com/sn/sn-185.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-185.txt)
 
 ### The SSL/TLS Protocol
 > Leo and I plow into the detailed operation of the Internet's most-used security protocol, originally called "SSL" and now evolved into "TLS." The security of this crucial protocol protects all of our online logins, financial transactions, and pretty much everything else.
 
 * [audio](https://media.grc.com/sn/sn-195.mp3)
 * [video](http://twit.tv/show/security-now/195)
-
+* [transcript - pdf] (https://www.grc.com/sn/sn-195.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-195.txt)
 
 ***
 
@@ -47,12 +59,16 @@
 
 * [audio](https://media.grc.com/sn/sn-233.mp3)
 * [video](http://twit.tv/show/security-now/233)
+* [transcript - pdf] (https://www.grc.com/sn/sn-233.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-233.txt)
 
 ### Machine Language
 > After starting at the very beginning two weeks ago by looking at how resistors and transistors can be used to assemble logical functions, this week Steve and Leo use those functions to build a working digital computer that understands a simple but entirely useful and workable machine language.
 
 * [audio](https://media.grc.com/sn/sn-235.mp3)
 * [video](http://twit.tv/show/security-now/235)
+* [transcript - pdf] (https://www.grc.com/sn/sn-235.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-235.txt)
 
 
 ### Indirection: The Power of Pointers
@@ -60,12 +76,16 @@
 
 * [audio](https://media.grc.com/sn/sn-237.mp3)
 * [video](http://twit.tv/show/security-now/237)
+* [transcript - pdf] (https://www.grc.com/sn/sn-237.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-237.txt)
 
 ### Stacks, Registers & Recursion
 > Steve and Leo continue their description of the operation of computers at the raw hardware level. This week Steve explains why and how computers have multiple accumulators, and also how a computer's "stack" operates and why stacks have become a crucial component of all modern computers.
 
 * [audio](https://media.grc.com/sn/sn-239.mp3)
 * [video](http://twit.tv/show/security-now/239)
+* [transcript - pdf] (https://www.grc.com/sn/sn-239.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-239.txt)
 
 
 ### Hardware Interrupts
@@ -73,6 +93,8 @@
 
 * [audio](https://media.grc.com/sn/sn-241.mp3)
 * [video](http://twit.tv/show/security-now/241)
+* [transcript - pdf] (https://www.grc.com/sn/sn-241.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-241.txt)
 
 
 ***
@@ -84,12 +106,16 @@
 
 * [audio](https://media.grc.com/sn/sn-299.mp3)
 * [video](http://twit.tv/show/security-now/299)
+* [transcript - pdf] (https://www.grc.com/sn/sn-299.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-299.txt)
 
 ### Part Two
 > We conclude our two-part series discussing the need for, and applications of, random and pseudo-random numbers. We discuss the ways in which a computer, which cannot produce random numbers, can be programmed to do an extremely good job.
 
 * [audio](https://media.grc.com/sn/sn-301.mp3)
 * [video](http://twit.tv/show/security-now/301)
+* [transcript - pdf] (https://www.grc.com/sn/sn-301.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-301.txt)
 
 ***
 
@@ -100,6 +126,8 @@
 
 * [audio](https://media.grc.com/sn/sn-309.mp3)
 * [video](http://twit.tv/show/security-now/309)
+* [transcript - pdf] (https://www.grc.com/sn/sn-309.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-309.txt)
 
 
 ### ICMP & UDP
@@ -107,6 +135,8 @@
 
 * [audio](https://media.grc.com/sn/sn-313.mp3)
 * [video](http://twit.tv/show/security-now/313)
+* [transcript - pdf] (https://www.grc.com/sn/sn-313.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-313.txt)
 
 ***
 
@@ -118,6 +148,8 @@
 
 * [audio](https://media.grc.com/sn/sn-317.mp3)
 * [video](http://twit.tv/show/security-now/317)
+* [transcript - pdf] (https://www.grc.com/sn/sn-317.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-317.txt)
 
 
 ### Attacking TCP
@@ -125,6 +157,8 @@
 
 * [audio](https://media.grc.com/sn/sn-323.mp3)
 * [video](http://twit.tv/show/security-now/323)
+* [transcript - pdf] (https://www.grc.com/sn/sn-323.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-323.txt)
 
 
 ### Necessary Refinements
@@ -132,6 +166,8 @@
 
 * [audio](https://media.grc.com/sn/sn-325.mp3)
 * [video](http://twit.tv/show/security-now/325)
+* [transcript - pdf] (https://www.grc.com/sn/sn-325.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-325.txt)
 
 ***
 
@@ -140,6 +176,8 @@
 
 * [audio](https://media.grc.com/sn/sn-343.mp3)
 * [video](http://twit.tv/show/security-now/343)
+* [transcript - pdf] (https://www.grc.com/sn/sn-343.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-343.txt)
 
 ***
 
@@ -148,6 +186,8 @@
 
 * [audio](https://media.grc.com/sn/sn-410.mp3)
 * [video](http://twit.tv/show/security-now/410)
+* [transcript - pdf] (https://www.grc.com/sn/sn-410.pdf)
+* [transcript - txt](https://www.grc.com/sn/sn-410.txt)
 
 
 
