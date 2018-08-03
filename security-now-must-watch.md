@@ -1,7 +1,7 @@
 ## How the Internet Works
 
 ### Part One
-> During this 49-minute episode, Leo and I briefly discuss the 'Kama Sutra' virus that will become destructive on February 3rd. We briefly discuss PC World Magazine's recent evaluation and ranking of ten top anti-malware systems. And we begin our long-planned 'fundamental technology' series with a two-part close look at the history and detailed operation of the global Internet.(How interent works starts at 8:35)
+> During this 49-minute episode, Leo and I briefly discuss the 'Kama Sutra' virus that will become destructive on February 3rd. We briefly discuss PC World Magazine's recent evaluation and ranking of ten top anti-malware systems. And we begin our long-planned 'fundamental technology' series with a two-part close look at the history and detailed operation of the global Internet.
 
 * [audio](https://media.grc.com/sn/sn-025.mp3)
 * [video](http://twit.tv/show/security-now/25)
