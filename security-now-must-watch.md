@@ -1,15 +1,15 @@
 ## How the Internet Works
 
 ### Part One
-> During this 49-minute episode, Leo and I briefly discuss the 'Kama Sutra' virus that will become destructive on February 3rd. We briefly discuss PC World Magazine's recent evaluation and ranking of ten top anti-malware systems. And we begin our long-planned 'fundamental technology' series with a two-part close look at the history and detailed operation of the global Internet.
+> During this 49-minute episode, Leo and I briefly discuss the 'Kama Sutra' virus that will become destructive on February 3rd. We briefly discuss PC World Magazine's recent evaluation and ranking of ten top anti-malware systems. And we begin our long-planned 'fundamental technology' series with a two-part close look at the history and detailed operation of the global Internet. ("How the internet works" talk starts at 8:30)
 
 * [audio](https://media.grc.com/sn/sn-025.mp3)
 * [video](http://twit.tv/show/security-now/25)
-* [transcript](https://www.grc.com/sn/sn-025.pdf)
+* [transcript - pdf](https://www.grc.com/sn/sn-025.pdf)
 * [transcript - txt](https://www.grc.com/sn/sn-025.txt)
 
 ### Part Two
-> Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world "application notes" for any of the security technologies we have previously discussed.(Q & A starts at 28:00)
+> Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world "application notes" for any of the security technologies we have previously discussed.
 
 * [audio](https://media.grc.com/sn/sn-026.mp3)
 * [video](http://twit.tv/show/security-now/26)
@@ -27,7 +27,7 @@
 ***
 
 ### Modes of Encryption
-> In preparation for a deep and detailed discussion of the Secure Sockets Layer (SSL) protocol, Steve and Leo first establish some formal crypto theory and practice of encryption operating modes.
+> In preparation for a deep and detailed discussion of the Secure Sockets Layer (SSL) protocol, Steve and Leo first establish some formal crypto theory and practice of encryption operating modes. ("Encryption" talk starts at 2:20)
 
 * [audio](https://media.grc.com/sn/sn-183.mp3)
 * [video](http://twit.tv/show/security-now/183)
@@ -122,7 +122,7 @@
 ## How the Internet Works
 
 ### Part One
-> Leo and I plow into the first of a series of forthcoming episodes, which will be spread out over time, describing the detailed technical operation of the ever-more-ubiquitous global Internet.
+> Leo and I plow into the first of a series of forthcoming episodes, which will be spread out over time, describing the detailed technical operation of the ever-more-ubiquitous global Internet. ("How does the internet work" talk starts at 49:30)
 
 * [audio](https://media.grc.com/sn/sn-309.mp3)
 * [video](http://twit.tv/show/security-now/309)
@@ -144,7 +144,7 @@
 ## TCP
 
 ### Getting Connected
-> Steve and Leo continue their "How the Internet Works" series with the first of several episodes describing the operation of the Internet's most used protocol: TCP.
+> Steve and Leo continue their "How the Internet Works" series with the first of several episodes describing the operation of the Internet's most used protocol: TCP. ("TCP" talk starts at 1:02:30)
 
 * [audio](https://media.grc.com/sn/sn-317.mp3)
 * [video](http://twit.tv/show/security-now/317)
@@ -153,7 +153,7 @@
 
 
 ### Attacking TCP
-> Leo and I return this week to our “How the Internet Works” fundamentals series. We examine the operation of the various attacks that have been made through the years against the Internet's most popular and complex protocol: TCP.
+> Leo and I return this week to our “How the Internet Works” fundamentals series. We examine the operation of the various attacks that have been made through the years against the Internet's most popular and complex protocol: TCP. ("TCP" talk starts at 41:42)
 
 * [audio](https://media.grc.com/sn/sn-323.mp3)
 * [video](http://twit.tv/show/security-now/323)
@@ -172,7 +172,7 @@
 ***
 
 ## HTTP & SPDY
-> Steve and Leo take a detailed look at the World Wide Web's current TCP & HTTP protocols, and examine the significant work that's been done by the Chromium Project on “SPDY”, a next-generation web protocol for dramatically decreasing page load times and latency and improving performance and interactivity.
+> Steve and Leo take a detailed look at the World Wide Web's current TCP & HTTP protocols, and examine the significant work that's been done by the Chromium Project on “SPDY”, a next-generation web protocol for dramatically decreasing page load times and latency and improving performance and interactivity.("HTTP & SPDY" talk starts at 29:00)
 
 * [audio](https://media.grc.com/sn/sn-343.mp3)
 * [video](http://twit.tv/show/security-now/343)
